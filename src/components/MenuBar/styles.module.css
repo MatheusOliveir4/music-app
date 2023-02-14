@@ -1,0 +1,19 @@
+.container {
+  width: 17.85rem;
+  border-right: 1px solid var(--border);
+}
+
+.content {
+  padding: 0 3rem 2rem;
+  height: 100%;
+}
+
+.header {
+  padding: 1.5rem 0;
+}
+
+.logo {
+  color: var(--title);
+  font-size: 1.1rem;
+}
+

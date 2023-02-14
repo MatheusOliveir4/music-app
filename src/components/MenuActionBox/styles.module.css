@@ -1,0 +1,15 @@
+.content {
+  margin: 1rem 0 3rem;
+}
+
+.content h3 {
+  color: var(--text);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: .9rem;
+}
+
+.content ul {
+  list-style: none;
+}

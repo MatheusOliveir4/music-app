@@ -1,0 +1,41 @@
+:root {
+  --bg: #FFFFFF; 
+  --bg-secondary: rgb(57, 153, 153); 
+  --text: rgb(124,141,181);
+  --text-secondary: rgb(124, 189, 189);
+  --title: rgb(37, 57, 111);
+  --border: rgb(230, 239, 251);
+  --actual-song-bg: rgb(36, 144, 144);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+body, input, textarea, button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
